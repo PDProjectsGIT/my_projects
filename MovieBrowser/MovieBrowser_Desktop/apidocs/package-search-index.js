@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.moviebrowser"},{"l":"pl.polsl.controler"},{"l":"pl.polsl.model"},{"l":"pl.polsl.view"}];updateSearchResults();
