@@ -21,5 +21,5 @@ A university project, functioning as a movie rental service. In the system, ther
 * Java (JDBC, Swing)
 * SQLite
 ## Documentation
-* [Javadoc](apidocs/index.html)
+* [Javadoc](apidocs/index.html){:target="_blank"}
 
