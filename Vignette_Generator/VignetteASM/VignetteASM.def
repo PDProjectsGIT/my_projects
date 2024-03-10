@@ -1,0 +1,2 @@
+LIBRARY VignetteASM
+EXPORTS GenerateASM
