@@ -5,7 +5,7 @@ This repository serves as a showcase for various projects I have undertaken. It 
 * [Technologies](#technologies)
 * [Repository structure](#repository-structure)
 ## Project List
-* [Image Vignetting Application](./VignetteGenerator) (C#/.NET/ASM)
+* [Image Vignetting Application](../VignetteGenerator) (C#/.NET/ASM)
 ## Technologies
 * C#
 * .NET Framework
