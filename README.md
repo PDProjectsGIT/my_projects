@@ -5,7 +5,8 @@ This repository serves as a showcase for various projects I have undertaken. It 
 * [Technologies](#technologies)
 * [Repository structure](#repository-structure)
 ## Project List
-* [Image Vignetting Application](../VignetteGenerator) (C#/.NET/ASM)
+* [Image Vignetting Application](https://github.com/PDProjectsGIT/VignetteGenerator) (C#/.NET/ASM)
+* [Crossword Generator](https://github.com/PDProjectsGIT/CrosswordGenerator) (Java)
 ## Technologies
 * C#
 * .NET Framework
