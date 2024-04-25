@@ -1,3 +1,0 @@
-﻿     Trwa tworzenie biblioteki C:\Users\pawel\Desktop\Vignette_Generator\x64\Release\VignetteASM.lib i obiektu C:\Users\pawel\Desktop\Vignette_Generator\x64\Release\VignetteASM.exp
-  LINK : określono opcję /LTCG, lecz generowanie kodu nie było wymagane; usuń opcję /LTCG z wiersza polecenia konsolidatora w celu podwyższenia wydajności konsolidatora
-  VignetteASM.vcxproj -> C:\Users\pawel\Desktop\Vignette_Generator\x64\Release\VignetteASM.dll
